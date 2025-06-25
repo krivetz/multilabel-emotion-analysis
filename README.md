@@ -10,6 +10,8 @@ Then model.ipynb is run, the model is trained and saved.
 Then the arayuz.ipynb file is run and the interface for the sentences that the user will enter opens.
 
 
+
+
 Turkish/
 
 Girilen cümlenin içerdiği duyguları belirten proje. Bert, Distilbert ve Roberta ile çalışmaktadır. Training için HuggingFace'deki GoEmotions dataseti üstünde oynamalar yapılarak kullanıldı. Dataset cümleleri multilabel yani aynı anda birden fazla duyguyu içerebilecek şekilde modele verilmektedir.
